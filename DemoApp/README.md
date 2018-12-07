@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
 Results:
 Switching between Textview and ToggleButton with the click of a button.
 
-![Alt Text](https://raw.githubusercontent.com/mykalbailey/BeeFit/master/ViewSwitcherDemo/ViewSwitcherGif.gif)
+![Alt Text](https://raw.githubusercontent.com/mykalbailey/ViewSwitcherDemo/master/DemoApp/ViewSwitcherGif.gif)
 
 ## Authors
 
